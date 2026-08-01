@@ -301,7 +301,7 @@ export default function SuperAdminPage() {
                 className="form-input"
                 value={qpayMerchantId}
                 onChange={(e) => setQpayMerchantId(e.target.value)}
-                placeholder="465d3e33-4f95-461a-ac1b-c24ab095af0a"
+                placeholder="05646a89-8641-4853-812e-7d36676b18e9"
                 required
               />
             </div>
